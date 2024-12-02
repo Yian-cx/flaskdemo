@@ -16,7 +16,7 @@
 
 ## 环境要求
 
-- Python >= 3.9
+- Python >= 3.12
 - MySQL 数据库
 - SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:password@localhost/bookdb'
 ---
